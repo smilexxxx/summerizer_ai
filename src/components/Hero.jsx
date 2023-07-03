@@ -1,5 +1,3 @@
-import React from "react";
-
 import { logo } from "../assets";
 
 const Hero = () => {
@@ -21,11 +19,12 @@ const Hero = () => {
 
       <h1 className="head_text">
         Summarize Articles with <br className="max-md:hidden" />
-        <span className="orange_gradient ">OpenAI GPT-4</span>
+        <span className="orange_gradient ">Summer-ai-zer</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with Summer-ai-zer, an open-source article
+        summarizer that transforms lengthy articles into clear and concise
+        summaries
       </h2>
     </header>
   );
